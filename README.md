@@ -12,7 +12,7 @@ I am Muntasir Ahmed. I'm currently working at Upwork As a Fontend Engineer. Im c
 
 ## My Tech! 
 - **Languages** - `C++` `Javascript` 
-- **Backend** - `Spring Boot` `Node.js` `Express.js`
+- **Backend** - `Node.js` `Express.js`
 - **Frontend** - `React`
 - **Database** - `PostgreSQL` `OracleDB` `MongoDB`
 - **Tools** - `Git` `Github workflow`
@@ -24,7 +24,7 @@ I am Muntasir Ahmed. I'm currently working at Upwork As a Fontend Engineer. Im c
 
 ## Github Overview
 
-<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=battlesofarmy&show_icons=true" />   &nbsp;
+<img align="left" alt="Muntasir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=battlesofarmy&show_icons=true" />   &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=battlesofarmy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
